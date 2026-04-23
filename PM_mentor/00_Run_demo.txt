@@ -1,0 +1,16 @@
+https://canva.link/wn5jl7xlpexlm32
+
+
+cd C:\Users\Yun-chiao\Downloads\期中報告
+
+python -m streamlit run 06_app.py
+
+問題:
+
+消費者反映交易失敗，但帳戶還是被扣款，PM 應該先查什麼？
+
+消費者反映付款後沒有收到正確結果，該怎麼排查？
+
+客戶帳戶被限制使用，而且無法提領資金，我應該先怎麼排查？
+
+退出 ctrl + C
