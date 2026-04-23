@@ -18,7 +18,7 @@ DEFAULT_CSV_PATH = "complaints_final.csv"  # 改成你的預設 CSV 路徑
 cc = OpenCC("s2t")
 
 st.set_page_config(
-    page_title="PM小幫手",
+    page_title="PM小老師",
     page_icon="🤖",
     layout="wide"
 )
@@ -267,7 +267,7 @@ def load_data(csv_path: str) -> pd.DataFrame:
 # =========================
 # UI
 # =========================
-st.title("🤖 PM小幫手")
+st.title("🤖 PM小老師")
 st.caption("輸入問題後，系統會根據既有客訴案例與處理方式，整理出自然語言建議。")
 
 csv_path = DEFAULT_CSV_PATH
@@ -301,7 +301,7 @@ if run_btn:
 
             status.success("分析完成")
 
-            st.subheader("小幫手回覆")
+            st.subheader("小老師回覆")
             st.write(answer)
 
             with st.expander("查看參考來源"):
