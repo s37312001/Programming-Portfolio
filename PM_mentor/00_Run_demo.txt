@@ -1,6 +1,3 @@
-https://canva.link/wn5jl7xlpexlm32
-
-
 cd C:\Users\Yun-chiao\Downloads\期中報告
 
 python -m streamlit run 06_app.py
