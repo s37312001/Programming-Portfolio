@@ -7,7 +7,7 @@
 
 此程式的核心流程如下：
 
-1. 讀取 CFPB CSV 案例資料 (可以載入其他的資料集)
+1. 讀取 CFPB CSV 案例資料https://cfpb.github.io/api/ccdb/api.html (可以載入其他的資料集)
 2. 建立可比對的檢索文本
 3. 對使用者問題做文字清理與斷詞
 4. 使用 TF-IDF + cosine similarity 找出相似案例
