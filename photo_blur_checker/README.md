@@ -205,6 +205,4 @@ CSV 報表中會顯示原因：
 ## 10. 參考來源
 
 - PyImageSearch - Blur detection with OpenCV https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
-- wongwonggoods - OpenCV blur score https://www.wongwonggoods.com/python/python_opencv/opencv-blur-score/
 - CSDN 中文參考文章 https://blog.csdn.net/WZZ18191171661/article/details/96602043
-- Python 檔案模式 r 與 rb 差異參考 https://www.796t.com/article.php?id=23718
