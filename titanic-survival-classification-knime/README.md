@@ -517,7 +517,7 @@ titanic-survival-classification-knime/
 
 ### KNIME Workflow
 
-[View the exported KNIME workflow](workflow/Titanic_Survival_Classification.html)
+[View the exported KNIME workflow](workflow/itanic_Survival_Classification.svg)
 
 The exported workflow shows the complete KNIME pipeline, including preprocessing branches, cross-validation loops, candidate models, scorers, and final holdout prediction.
 
