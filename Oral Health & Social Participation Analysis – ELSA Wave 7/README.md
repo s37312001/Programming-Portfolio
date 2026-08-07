@@ -178,17 +178,14 @@ Possible extensions include:
 oral-health-social-participation-analysis/
 │
 ├── README.md
-├── report/
-│   └── Data_Analysis_Report.pdf
-└── images/
-    └── optional figures extracted from the report
+├── Data_Analysis_Report.pdf
 ```
 
 ## Full Report
 
 The complete academic report, including literature review, methodology, statistical outputs, discussion, references, and appendix, is available in:
 
-`report/Data_Analysis_Report.pdf`
+`Data_Analysis_Report.pdf`
 
 ## Academic Context
 
